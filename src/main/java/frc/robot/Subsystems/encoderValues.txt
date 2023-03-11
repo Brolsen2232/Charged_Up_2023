@@ -1,0 +1,7 @@
+First Pole: 
+Rotational Encoder: -43.99
+Translational Encoder: 67.05
+
+Second Pole: 
+Rotational Encoder -40
+Translational Encoder: 157.64
